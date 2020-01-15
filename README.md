@@ -1,1 +1,5 @@
-# w7-rangine-project-document-docker
+# 构建静像
+
+```
+docker build .
+```
